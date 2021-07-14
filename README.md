@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Akashi2019's github stats](https://github-readme-stats.vercel.app/api?username=Akashi2019&show_icons=true&theme=dark)
 <!--
 **Akashi2019/akashi2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
